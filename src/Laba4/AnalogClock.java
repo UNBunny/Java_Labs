@@ -73,7 +73,7 @@ public class AnalogClock extends JFrame {
             int centerX = getWidth() / 2;
             int centerY = getHeight() / 2;
 
-            // Цеферблат
+            // Циферблат
             g.setColor(Color.WHITE);
             g.fillOval(centerX - 100, centerY - 100, 200, 200);
 
